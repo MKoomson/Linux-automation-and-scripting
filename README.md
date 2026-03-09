@@ -105,15 +105,28 @@ Understanding execution flow is critical in automation and security scripting.
 
 ---
 
-## Next Phase
+## SSH Automation Projects
 
-- Writing structured automation scripts
-- Building real-world mini projects
-- Transitioning toward cybersecurity scripting
+This repository contains beginner Linux automation scripts built while learning Bash and SSH.
+
+### Projects
+
+**1. SSH Basic Connection Script**
+
+Automates connecting to a remote server using SSH.
+
+**2. Multi-Server SSH Checker**
+
+Reads a list of servers from a file and attempts SSH connection to each server using a loop.
+
+### Skills Practiced
+
+* Bash scripting
+* Variables
+* Loops
+* Reading from files
+* SSH automation
 
 ---
 
-## Author
 
-Self-taught systems engineer in progress.
-Focused on automation, Linux systems, and cybersecurity.
